@@ -1,0 +1,14 @@
+.img-box-active{
+    opacity: 0.5;
+    border: 3px solid rgb(255, 81, 0);
+}
+.quantity{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bx-cart{
+    font-size: 30px;
+    color: black;
+}
